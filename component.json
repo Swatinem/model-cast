@@ -1,0 +1,14 @@
+{
+  "name": "model-cast",
+  "repo": "Swatinem/model-cast",
+  "version": "0.0.1",
+  "description": "Automatically cast properties for Swatinem/model",
+  "keywords": [],
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "dependencies": {
+  },
+  "license": "LGPLv3"
+}
