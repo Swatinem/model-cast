@@ -12,15 +12,14 @@
   },
   "devDependencies": {
     "model": "Swatinem/model",
+    "istanbul": "*",
     "mocha": "*",
     "should": "*",
-    "jscoverage": "*",
     "coveralls": "*",
-    "mocha-lcov-reporter": "*",
     "jshint": "*"
   },
   "scripts": {
-    "test": "make test && make test-coveralls"
+    "test": "make test-coveralls"
   },
   "repository": "git://github.com/Swatinem/model-array.git",
   "license": "LGPLv3"

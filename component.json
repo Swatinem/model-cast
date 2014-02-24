@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "description": "Automatically cast properties for Swatinem/model",
   "keywords": [],
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": [
-    "lib/index.js"
+    "index.js"
   ],
   "dependencies": {
   },
